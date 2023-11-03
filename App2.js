@@ -6,7 +6,7 @@
 
 let numeroAleatorio = geraNumeroAleatorio();
 let tentativa = 1
-let MaximoNumeroAleatorio = 100
+let MaximoNumeroAleatorio = 50
 
 function exibirTextoNaTela(tag, texto){
 let campo = document.querySelector(tag);
